@@ -1,5 +1,5 @@
 # my-website
 
 Changed from local side
-Changed from example branch
+More updates from the local side.
 *Updating readme file from update-readme branch*
